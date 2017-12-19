@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 36pt;
+	color: black;
+}
+h2{
+	font-size: 24pt;
+	color: black;
+}
+p{
+	color:black;
+	font-size: 14pt;
+}
+p1{
+	color: white;
+	font-size: 12pt;
+}
+body{
+    background-image: url(../Images/LiliumBG3.png)
+}
